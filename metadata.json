@@ -1,0 +1,6 @@
+{
+  "name": "Orbe",
+  "description": "Sistema minimalista de gestão financeira pessoal em Português (Brasil) e moeda BRL (R$), com controle de lançamentos, importação OFX e modo privacidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
